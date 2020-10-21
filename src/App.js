@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">JonPohlner@gmail.com</h1>
+          <h1 className="App-title">dev.TurtleWolfe@gmail.com</h1>
           <img
             src="https://app.codeship.com/projects/ce086d20-209f-0136-fda2-1a0f937aee5f/status?branch=master"
             alt="codeship status"
@@ -161,9 +161,9 @@ class App extends Component {
             <img src="img/cssGRID/matrix.gif" alt="matrix.gif" />
           </div>
         </div>
-        <a href="https://github.com/TurtleWolf/resuma" target="blank">
+        <a href="https://github.com/TurtleWolf/TWPortfolio" target="blank">
           <h6 className="App-title css-text-shadow">
-            {"source code: https://github.com/TurtleWolf/resuma "}
+            {"source code: https://github.com/TurtleWolf/TWPortfolio "}
           </h6>
         </a>
       </div>
